@@ -8,6 +8,6 @@
   "portsAttributes": {
     "3000": { "label": "Students Info", "onAutoForward": "openBrowser" }
   },
-  "postCreateCommand": "docker build -t studenapp .",
-  "postStartCommand": "docker rm -f studenapp-run || true && docker run --name studenapp-run -p 3000:3000 -d studenapp"
+  "postCreateCommand": "docker build -t studentapp .",
+  "postStartCommand": "docker rm -f studentapp-run || true && docker run --name studentapp-run -p 3000:3000 -d studentapp"
 }

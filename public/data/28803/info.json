@@ -1,7 +1,7 @@
 {
     "nombre": "Fredy Ballesteros",
     "edad": 47,
-    "carrera": "Ingeniería electronica",
+    "carrera": "Ingeniería electrónica",
     "semestre": 8,
     "gustos": ["Futbol", "Comer", "UFC", "Viajar"],
     "noGustos": ["Despertarse temprano", "Pescado"],

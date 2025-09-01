@@ -1,0 +1,13 @@
+{
+  "name": "Dev with Docker",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": { "label": "Students Info", "onAutoForward": "openBrowser" }
+  },
+  "postCreateCommand": "docker build -t studentapp .",
+  "postStartCommand": "docker rm -f studentapp-run || true && docker run --name studentapp-run -p 3000:3000 -d studentapp"
+}

@@ -1,0 +1,11 @@
+{
+    "nombre": "Sara Yineth Suarez Reyes",
+    "edad": 20,
+    "carrera": "Ingenieria de Sistemas",
+    "semestre": 6,
+    "gustos": ["Senderismo", "Musica", "Leer", "Videojuegos"],
+    "noGustos": ["Pescado", "Despertarse temprano", "Comida picante"],
+    "foto": "https://i.postimg.cc/1zmyFFs7/IMG-2023-1.jpg"
+}
+
+  

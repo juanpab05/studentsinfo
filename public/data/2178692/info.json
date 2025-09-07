@@ -1,0 +1,10 @@
+{
+    "nombre": "Sergio Sanchez",
+    "edad": 22,
+    "carrera": "Ingenieria de sistemas",
+    "semestre": 9,
+    "gustos": ["Videojuegos", "Libros"],
+    "noGustos": ["Despertarse temprano", "arañas", "Salsa", "Tareas", "Calor"],
+    "foto": "https://drive.google.com/file/d/1u1B0bbW6lMe9VygU-6msOAQzF5yPn6AN/view?usp=sharing"
+
+}

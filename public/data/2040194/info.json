@@ -1,0 +1,11 @@
+{
+    "nombre": "Juan Sebastian Tobar Moriones",
+    "edad": 23,
+    "carrera": "Ingenieria de sistemas",
+    "semestre": 6,
+    "gustos": ["Videojuegos", "Futbol", "Tecnologia", "Hamburguesas"],
+    "noGustos": ["Insolacion", "Nadar", "Mar"],
+    "foto": "https://avatars.githubusercontent.com/u/83280001?v=4"
+}
+
+  

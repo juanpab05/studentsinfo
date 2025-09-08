@@ -1,0 +1,9 @@
+{
+    "nombre": "Erik Santiago Amariles Solarte",
+    "edad": 20,
+    "carrera": "Ingenieria de sistemas",
+    "semestre": 7,
+    "gustos": ["EscuharMúsica", "Sáxofon", "Caminar", "Cine"],
+    "noGustos": ["Madrugar", "ComidaDeMar", "Correr"],
+    "foto": "https://i.postimg.cc/BvrwcCdx/jejeje.png"
+}
